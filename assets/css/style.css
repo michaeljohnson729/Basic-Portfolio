@@ -84,14 +84,19 @@ nav ul li a {
 h2 {
     font-size: 22px;
     color: #4aaaa5;
-    margin: 15px;
+    margin: 10px;
     padding: 20px;
     background-color: #fff;
     border-bottom: solid;
     border-color: #ccc;
 
 }
-
+.contact {
+    font-size: 22px;
+    color: #4aaaa5;
+    border-bottom: solid #ccc;
+    padding-bottom: 10px;
+}
 section img {
     width: 200px;
     height: auto;
@@ -107,17 +112,7 @@ section p {
     margin-top: 5px;
     line-height: 150%;
 }
-footer {
-    text-align: center;
-    color: #fff;
-    border-top: solid;
-    border-top-width: 10px;
-    border-color: #4aaaa5;
-    background: #777;
-    position: absolute;
-    bottom: 0
-  
-}
+
 
 form .form-control {
     margin: 16px 0;
@@ -142,3 +137,76 @@ form .form-control textarea {
     border-radius: 4px;
     border: 0;
 }
+
+
+footer {
+    text-align: center;
+    color: #fff;
+    border-top: solid;
+    border-top-width: 10px;
+    border-color: #4aaaa5;
+    background: #777;
+    position: absolute;
+    bottom: 0
+  
+}
+
+.container3 {
+    margin: 0 auto;
+    width: 960px;
+    background: #fff;
+    overflow: auto;
+}
+
+.images {
+    padding: 15px;
+    margin: 20px;
+    
+}
+
+#place_holder1 {
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+#place_holder2 {
+    float: right;
+    margin-right: 150px;
+    
+}
+
+#place_holder3 {
+    clear: both;
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 30px;
+    
+}
+
+#place_holder4 {
+    float: right;
+    margin-right: 150px;
+    
+    
+}
+
+#place_holder5 {
+    clear: both;
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 30px;
+    
+}
+
+.portfolio {
+    font-size: 22px;
+    color: #4aaaa5;
+    margin: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-bottom: solid;
+    border-color: #ccc;
+
+}
+
